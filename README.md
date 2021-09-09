@@ -17,7 +17,7 @@ sudo sh -c 'echo 255 > /sys/devices/pwm-fan/target_pwm'
 
 
 ### Python Setup
-```console
+```js
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install libfreetype6-dev pkg-config -y
